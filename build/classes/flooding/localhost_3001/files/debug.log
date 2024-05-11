@@ -1,0 +1,13 @@
+{"level":"info","message":{"body":{},"method":"GET","query":{},"url":"/"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-\\multipart.js:567:19)","status":400,"storageErrors":[]}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/cover"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/resume"},"service":"user-service"}

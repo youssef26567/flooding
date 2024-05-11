@@ -1,0 +1,454 @@
+{"level":"info","message":{"body":{},"method":"GET","query":{},"url":"/"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"error","message":"connect ECONNREFUSED ::1:27017 connect ECONNREFUSED ::1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Unknown"},"service":"user-service","stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017\n    at _handleConnectionErrors (D:\\College\\ayhaga\\node_modules\\mongoose\\lib\\connection.js:809:11)\n    at NativeConnection.openUri (D:\\College\\ayhaga\\node_modules\\mongoose\\lib\\connection.js:784:11)"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"GET","query":{},"url":"/"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"GET","query":{},"url":"/api/v1/users/"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"GET","query":{},"url":"/api/v1/users/"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"GET","query":{},"url":"/api/v1/users/"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"GET","query":{"user":"mostafa"},"url":"/api/v1/users?user=mostafa"},"service":"user-service"}
+{"level":"info","message":{"body":{},"method":"GET","query":{"user":"mostafa"},"url":"/api/v1/users?user=mostafa"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"GET","query":{"user":"mostafa"},"url":"/api/v1/users?user=mostafa"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"password":"1234","username":"mostafa"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"mostafa@","password":"1234"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"error","message":"Error","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"GET","query":{"user":"mostafa"},"url":"/api/v1/users?user=mostafa"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"GET","query":{"user":"mostafa"},"url":"/api/v1/users?user=mostafa"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"mostafa@","password":"1234"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"mostafa@","password":"1234"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"mostafa@gmail","password":"1234"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"GET","query":{},"url":"/"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"GET","query":{},"url":"/2131"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"GET","query":{},"url":"/2131"},"service":"user-service"}
+{"level":"error","message":"This route /2131 doesn't exist This route /2131 doesn't exist","service":"user-service","stack":"Error: This route /2131 doesn't exist\n    at routeError (D:\\College\\ayhaga\\src\\middleware\\error.middleware.ts:7:15)\n    at Layer.handle [as handle_request] (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at Route.dispatch (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:114:3)","status":404}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"GET","query":{},"url":"/2131"},"service":"user-service"}
+{"level":"error","message":"This route /2131 doesn't exist This route /2131 doesn't exist","service":"user-service","stack":"Error: This route /2131 doesn't exist\n    at routeError (D:\\College\\ayhaga\\src\\middleware\\error.middleware.ts:7:15)\n    at Layer.handle [as handle_request] (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at Route.dispatch (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:114:3)","status":404}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"mostafa@gmail","password":"1234"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"User not found User not found","service":"user-service","stack":"Error: User not found\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:21:22\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","status":404}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"mostafa@gmail","password":"1234"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"User not found User not found","service":"user-service","stack":"Error: User not found\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:21:22\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","status":404}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"mostafa@gmail","password":"1234"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"User not found User not found","service":"user-service","stack":"Error: User not found\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:21:22\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","status":404}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"mostafa@gmail","password":"1234"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"User not found User not found","service":"user-service","stack":"Error: User not found\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:21:22\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","status":404}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"mostafa@gmail.com","password":"1234"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"User not found User not found","service":"user-service","stack":"Error: User not found\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:21:22\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","status":404}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"memo@google.com","gender":"male","password":"1234","role":"user","username":"mahmouddd"},"method":"POST","query":{},"url":"/api/v1/signup"},"service":"user-service"}
+{"level":"error","message":"This route /api/v1/signup doesn't exist This route /api/v1/signup doesn't exist","service":"user-service","stack":"Error: This route /api/v1/signup doesn't exist\n    at routeError (D:\\College\\ayhaga\\src\\middleware\\error.middleware.ts:7:15)\n    at Layer.handle [as handle_request] (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)","status":404}
+{"level":"info","message":{"body":{"email":"memo@google.com","gender":"male","password":"1234","role":"user","username":"mahmouddd"},"method":"POST","query":{},"url":"/api/v1/users/signup"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"memo@google.com","password":"1234"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"memo@google.com","password":"12345"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"Incorrect password Incorrect password","service":"user-service","stack":"Error: Incorrect password\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:49:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)","status":401}
+{"level":"info","message":{"body":{"email":"memo5@google.com","password":"12345"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"User not found User not found","service":"user-service","stack":"Error: User not found\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:45:22\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","status":404}
+{"level":"info","message":{"body":{"email":"memo5@google.com","password":"1234"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"User not found User not found","service":"user-service","stack":"Error: User not found\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:45:22\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","status":404}
+{"level":"info","message":{"body":{"email":"memo@google.com","password":"1234"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"memo@google.com","password":"1234"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"memo@google.com","gender":"male","password":"1234","role":"user","username":"mahmouddd"},"method":"POST","query":{},"url":"/api/v1/users/signup"},"service":"user-service"}
+{"level":"error","message":"schema[method].validate is not a function schema[method].validate is not a function","service":"user-service","stack":"TypeError: schema[method].validate is not a function\n    at D:\\College\\ayhaga\\src\\middleware\\validation.middleware.ts:12:51\n    at Array.forEach (<anonymous>)\n    at D:\\College\\ayhaga\\src\\middleware\\validation.middleware.ts:10:13\n    at Layer.handle [as handle_request] (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:280:10)"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"memo@google.com","gender":"male","password":"1234","role":"user","username":"mahmouddd"},"method":"POST","query":{},"url":"/api/v1/users/signup"},"service":"user-service"}
+{"level":"error","message":"schema[method].validate is not a function schema[method].validate is not a function","service":"user-service","stack":"TypeError: schema[method].validate is not a function\n    at D:\\College\\ayhaga\\src\\middleware\\validation.middleware.ts:12:42\n    at Array.forEach (<anonymous>)\n    at D:\\College\\ayhaga\\src\\middleware\\validation.middleware.ts:10:13\n    at Layer.handle [as handle_request] (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:280:10)"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"memo@google.com","gender":"male","password":"1234","role":"user","username":"mahmouddd"},"method":"POST","query":{},"url":"/api/v1/users/signup"},"service":"user-service"}
+{"level":"error","message":"User already exists User already exists","service":"user-service","stack":"Error: User already exists\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:23:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","status":409}
+{"level":"info","message":{"body":{"email":"memo@google.com","username":"mahmouddd"},"method":"POST","query":{},"url":"/api/v1/users/signup"},"service":"user-service"}
+{"level":"error","message":"\"password\" is required, \"gender\" is required, \"role\" is required \"password\" is required, \"gender\" is required, \"role\" is required","service":"user-service","stack":"Error: \"password\" is required, \"gender\" is required, \"role\" is required\n    at D:\\College\\ayhaga\\src\\middleware\\validation.middleware.ts:24:19\n    at Layer.handle [as handle_request] (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:47:12)","status":400}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"memo@google.com","gender":"male","password":"1234","role":"user","username":"mahmouddd"},"method":"POST","query":{},"url":"/api/v1/users/signup"},"service":"user-service"}
+{"level":"error","message":"User already exists User already exists","service":"user-service","stack":"Error: User already exists\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:23:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","status":409}
+{"level":"info","message":{"body":{},"method":"GET","query":{},"url":"/2131"},"service":"user-service"}
+{"level":"error","message":"This route /2131 doesn't exist This route /2131 doesn't exist","service":"user-service","stack":"Error: This route /2131 doesn't exist\n    at routeError (D:\\College\\ayhaga\\src\\middleware\\error.middleware.ts:7:15)\n    at Layer.handle [as handle_request] (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at Route.dispatch (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:114:3)","status":404}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"memo@google.com","gender":"male","password":"1234","role":"user","username":"mahmouddd"},"method":"POST","query":{},"url":"/api/v1/users/signup"},"service":"user-service"}
+{"level":"error","message":"User already exists User already exists","service":"user-service","stack":"Error: User already exists\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:23:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","status":409}
+{"level":"info","message":{"body":{"email":"memo@google.com","gender":"male","password":"1234","role":"user","username":"mahmouddd"},"method":"POST","query":{},"url":"/api/v1/users/signup"},"service":"user-service"}
+{"level":"error","message":"User already exists User already exists","service":"user-service","stack":"Error: User already exists\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:23:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","status":409}
+{"level":"info","message":{"body":{"email":"memo@google.com","username":"mahmouddd"},"method":"POST","query":{},"url":"/api/v1/users/signup"},"service":"user-service"}
+{"level":"error","message":"\"password\" is required \"password\" is required","service":"user-service","stack":"Error: \"password\" is required\n    at D:\\College\\ayhaga\\src\\middleware\\validation.middleware.ts:28:19\n    at Layer.handle [as handle_request] (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:47:12)","status":400}
+{"level":"info","message":{"body":{"email":"memo@google.com","gender":"male","password":"1234","role":"user","username":"mahmouddd"},"method":"POST","query":{},"url":"/api/v1/users/signup"},"service":"user-service"}
+{"level":"error","message":"User already exists User already exists","service":"user-service","stack":"Error: User already exists\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:23:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","status":409}
+{"level":"info","message":{"body":{"email":"memo2@google.com","gender":"male","password":"1234","role":"user","username":"mahmouddd"},"method":"POST","query":{},"url":"/api/v1/users/signup"},"service":"user-service"}
+{"level":"error","message":"User already exists User already exists","service":"user-service","stack":"Error: User already exists\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:23:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","status":409}
+{"level":"info","message":{"body":{"email":"memo2@google.com","gender":"male","password":"1234","role":"user","username":"mahmouddd22"},"method":"POST","query":{},"url":"/api/v1/users/signup"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"memo2@google.com","gender":"male","password":"1234","role":"user","username":"mahmouddd22"},"method":"POST","query":{},"url":"/api/v1/users/signup"},"service":"user-service"}
+{"level":"error","message":"User already exists User already exists","service":"user-service","stack":"Error: User already exists\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:23:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","status":409}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"memo2@google.com","gender":"male","password":"1234","role":"user","username":"mahmouddd22"},"method":"POST","query":{},"url":"/api/v1/users/signup"},"service":"user-service"}
+{"level":"error","message":"User already exists User already exists","service":"user-service","stack":"Error: User already exists\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:23:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","status":409}
+{"level":"info","message":{"body":{"email":"memo2@google.com","gender":"male","password":"1234","role":"user","username":"mahmouddd22"},"method":"POST","query":{},"url":"/api/v1/users/signup"},"service":"user-service"}
+{"level":"error","message":"User already exists User already exists","service":"user-service","stack":"Error: User already exists\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:23:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","status":409}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"memo3@google.com","gender":"male","password":"1234","role":"user","username":"mahmouddd232"},"method":"POST","query":{},"url":"/api/v1/users/signup"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"memo3@google.com","password":"1234"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"Incorrect password Incorrect password","service":"user-service","stack":"Error: Incorrect password\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:54:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)","status":401}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"memo3@google.com","password":"1234"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"Incorrect password Incorrect password","service":"user-service","stack":"Error: Incorrect password\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:50:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)","status":401}
+{"level":"info","message":{"body":{"email":"memo3@google.com","password":"1234"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"Incorrect password Incorrect password","service":"user-service","stack":"Error: Incorrect password\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:50:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)","status":401}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"memo3@google.com","password":"1234"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"Incorrect password Incorrect password","service":"user-service","stack":"Error: Incorrect password\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:52:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)","status":401}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"memo3@google.com","password":"1234"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"Incorrect password Incorrect password","service":"user-service","stack":"Error: Incorrect password\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:52:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)","status":401}
+{"level":"info","message":{"body":{"email":"dash11@google.com","gender":"male","password":"12345","role":"user","username":"dash11"},"method":"POST","query":{},"url":"/api/v1/users/signup"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"dash11@google.com","password":"12345"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"info","message":{"body":{"email":"dash11@google.com","password":"123453"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"Incorrect password Incorrect password","service":"user-service","stack":"Error: Incorrect password\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:52:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)","status":401}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{"email":"dash@gmail.com","password":"12345a"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"User not found User not found","service":"user-service","stack":"Error: User not found\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:46:22\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","status":404}
+{"level":"info","message":{"body":{"email":"memo3@gmail.com","password":"12345a"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"User not found User not found","service":"user-service","stack":"Error: User not found\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:46:22\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)\n    at processTicksAndRejections (node:internal/process/task_queues:95:5)","status":404}
+{"level":"info","message":{"body":{"email":"memo3@google.com","password":"12345a"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"Incorrect password Incorrect password","service":"user-service","stack":"Error: Incorrect password\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:51:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)","status":401}
+{"level":"info","message":{"body":{"email":"memo3@google.com","password":"12345"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"Incorrect password Incorrect password","service":"user-service","stack":"Error: Incorrect password\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:51:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)","status":401}
+{"level":"info","message":{"body":{"email":"memo3@google.com","password":"1234"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"Incorrect password Incorrect password","service":"user-service","stack":"Error: Incorrect password\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:51:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)","status":401}
+{"level":"info","message":{"body":{"email":"memo3@google.com","password":"123"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"Incorrect password Incorrect password","service":"user-service","stack":"Error: Incorrect password\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:51:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)","status":401}
+{"level":"info","message":{"body":{"email":"memo3@google.com","password":"12345"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"Incorrect password Incorrect password","service":"user-service","stack":"Error: Incorrect password\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:51:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)","status":401}
+{"level":"info","message":{"body":{"email":"memo3@google.com","password":"123456"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"Incorrect password Incorrect password","service":"user-service","stack":"Error: Incorrect password\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:51:13\n    at Generator.next (<anonymous>)\n    at fulfilled (D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:5:58)","status":401}
+{"level":"info","message":{"body":{"email":"memo3@google.com"},"method":"POST","query":{},"url":"/api/v1/users/login"},"service":"user-service"}
+{"level":"error","message":"\"password\" is required \"password\" is required","service":"user-service","stack":"Error: \"password\" is required\n    at D:\\College\\ayhaga\\src\\middleware\\validation.middleware.ts:28:19\n    at Layer.handle [as handle_request] (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at Route.dispatch (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:114:3)\n    at Layer.handle [as handle_request] (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:284:15\n    at Function.process_params (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:346:12)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:280:10)\n    at Function.handle (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:175:3)\n    at router (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\index.js:47:12)","status":400}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/users/upload"},"service":"user-service"}
+{"level":"error","message":"This route /users/upload doesn't exist This route /users/upload doesn't exist","service":"user-service","stack":"Error: This route /users/upload doesn't exist\n    at routeError (D:\\College\\ayhaga\\src\\middleware\\error.middleware.ts:7:15)\n    at Layer.handle [as handle_request] (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:144:13)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)\n    at next (D:\\College\\ayhaga\\node_modules\\express\\lib\\router\\route.js:140:7)","status":404}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload"},"service":"user-service"}
+{"code":"ENOENT","errno":-4058,"level":"error","message":"ENOENT: no such file or directory, open 'D:\\College\\ayhaga\\images\\profile-images\\1703511735182' ENOENT: no such file or directory, open 'D:\\College\\ayhaga\\images\\profile-images\\1703511735182'","path":"D:\\College\\ayhaga\\images\\profile-images\\1703511735182","service":"user-service","stack":"Error: ENOENT: no such file or directory, open 'D:\\College\\ayhaga\\images\\profile-images\\1703511735182'","storageErrors":[],"syscall":"open"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload"},"service":"user-service"}
+{"code":"ENOENT","errno":-4058,"level":"error","message":"ENOENT: no such file or directory, open 'D:\\images\\profile-images\\1703511773401' ENOENT: no such file or directory, open 'D:\\images\\profile-images\\1703511773401'","path":"D:\\images\\profile-images\\1703511773401","service":"user-service","stack":"Error: ENOENT: no such file or directory, open 'D:\\images\\profile-images\\1703511773401'","storageErrors":[],"syscall":"open"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload"},"service":"user-service"}
+{"code":"ENOENT","errno":-4058,"level":"error","message":"ENOENT: no such file or directory, open 'D:\\College\\ayhaga\\src\\utils\\images\\profile-images\\1703511786726' ENOENT: no such file or directory, open 'D:\\College\\ayhaga\\src\\utils\\images\\profile-images\\1703511786726'","path":"D:\\College\\ayhaga\\src\\utils\\images\\profile-images\\1703511786726","service":"user-service","stack":"Error: ENOENT: no such file or directory, open 'D:\\College\\ayhaga\\src\\utils\\images\\profile-images\\1703511786726'","storageErrors":[],"syscall":"open"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/video"},"service":"user-service"}
+{"code":"LIMIT_UNEXPECTED_FILE","field":"profile","level":"error","message":"Unexpected field Unexpected field","name":"MulterError","service":"user-service","stack":"MulterError: Unexpected field\n    at wrappedFileFilter (D:\\College\\ayhaga\\node_modules\\multer\\index.js:40:19)\n    at Multipart.<anonymous> (D:\\College\\ayhaga\\node_modules\\multer\\lib\\make-middleware.js:107:7)\n    at Multipart.emit (node:events:512:28)\n    at HeaderParser.cb (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:358:14)\n    at HeaderParser.push (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:394:37)\n    at feed (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:200:10)\n    at SBMH.push (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:104:16)\n    at Multipart._write (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:567:19)\n    at writeOrBuffer (node:internal/streams/writable:392:12)","storageErrors":[]}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/video"},"service":"user-service"}
+{"code":"LIMIT_UNEXPECTED_FILE","field":"profile","level":"error","message":"Unexpected field Unexpected field","name":"MulterError","service":"user-service","stack":"MulterError: Unexpected field\n    at wrappedFileFilter (D:\\College\\ayhaga\\node_modules\\multer\\index.js:40:19)\n    at Multipart.<anonymous> (D:\\College\\ayhaga\\node_modules\\multer\\lib\\make-middleware.js:107:7)\n    at Multipart.emit (node:events:512:28)\n    at HeaderParser.cb (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:358:14)\n    at HeaderParser.push (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:394:37)\n    at feed (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:248:10)\n    at SBMH.push (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:104:16)\n    at Multipart._write (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:567:19)\n    at writeOrBuffer (node:internal/streams/writable:392:12)","storageErrors":[]}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/video"},"service":"user-service"}
+{"level":"error","message":"Error: File upload only supports the following filetypes - /mp3|wav|wma|m4a|flac|aac|ogg|oga|opus|ra|rm|rmvb|mmf|amr|aiff|au|aif|aifc|caf|flac|m4b|mpc|pcm|tta|wv|8svx|cda|dct|dss|gsm|m4p|mp2|mpa|msv|sln|vox|3gp|3g2/ Error: File upload only supports the following filetypes - /mp3|wav|wma|m4a|flac|aac|ogg|oga|opus|ra|rm|rmvb|mmf|amr|aiff|au|aif|aifc|caf|flac|m4b|mpc|pcm|tta|wv|8svx|cda|dct|dss|gsm|m4p|mp2|mpa|msv|sln|vox|3gp|3g2/","service":"user-service","stack":"Error: Error: File upload only supports the following filetypes - /mp3|wav|wma|m4a|flac|aac|ogg|oga|opus|ra|rm|rmvb|mmf|amr|aiff|au|aif|aifc|caf|flac|m4b|mpc|pcm|tta|wv|8svx|cda|dct|dss|gsm|m4p|mp2|mpa|msv|sln|vox|3gp|3g2/\n    at D:\\College\\ayhaga\\src\\utils\\multer.ts:50:17\n    at wrappedFileFilter (D:\\College\\ayhaga\\node_modules\\multer\\index.js:44:7)\n    at Multipart.<anonymous> (D:\\College\\ayhaga\\node_modules\\multer\\lib\\make-middleware.js:107:7)\n    at Multipart.emit (node:events:512:28)\n    at HeaderParser.cb (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:358:14)\n    at HeaderParser.push (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:394:37)\n    at feed (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:200:10)\n    at SBMH.push (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:104:16)\n    at Multipart._write (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:567:19)","status":400,"storageErrors":[]}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/video"},"service":"user-service"}
+{"level":"error","message":"Error: File upload only supports the following filetypes - /mp3|wav|wma|m4a|flac|aac|ogg|oga|opus|ra|rm|rmvb|mmf|amr|aiff|au|aif|aifc|caf|flac|m4b|mpc|pcm|tta|wv|8svx|cda|dct|dss|gsm|m4p|mp2|mpa|msv|sln|vox|3gp|3g2/ Error: File upload only supports the following filetypes - /mp3|wav|wma|m4a|flac|aac|ogg|oga|opus|ra|rm|rmvb|mmf|amr|aiff|au|aif|aifc|caf|flac|m4b|mpc|pcm|tta|wv|8svx|cda|dct|dss|gsm|m4p|mp2|mpa|msv|sln|vox|3gp|3g2/","service":"user-service","stack":"Error: Error: File upload only supports the following filetypes - /mp3|wav|wma|m4a|flac|aac|ogg|oga|opus|ra|rm|rmvb|mmf|amr|aiff|au|aif|aifc|caf|flac|m4b|mpc|pcm|tta|wv|8svx|cda|dct|dss|gsm|m4p|mp2|mpa|msv|sln|vox|3gp|3g2/\n    at D:\\College\\ayhaga\\src\\utils\\multer.ts:52:17\n    at wrappedFileFilter (D:\\College\\ayhaga\\node_modules\\multer\\index.js:44:7)\n    at Multipart.<anonymous> (D:\\College\\ayhaga\\node_modules\\multer\\lib\\make-middleware.js:107:7)\n    at Multipart.emit (node:events:512:28)\n    at HeaderParser.cb (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:358:14)\n    at HeaderParser.push (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:394:37)\n    at feed (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:248:10)\n    at SBMH.push (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:104:16)\n    at Multipart._write (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:567:19)","status":400,"storageErrors":[]}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/video"},"service":"user-service"}
+{"level":"error","message":"Error: File upload only supports the following filetypes - /mp3|wav|wma|m4a|flac|aac|ogg|oga|opus|ra|rm|rmvb|mmf|amr|aiff|au|aif|aifc|caf|flac|m4b|mpc|pcm|tta|wv|8svx|cda|dct|dss|gsm|m4p|mp2|mpa|msv|sln|vox|3gp|3g2/ Error: File upload only supports the following filetypes - /mp3|wav|wma|m4a|flac|aac|ogg|oga|opus|ra|rm|rmvb|mmf|amr|aiff|au|aif|aifc|caf|flac|m4b|mpc|pcm|tta|wv|8svx|cda|dct|dss|gsm|m4p|mp2|mpa|msv|sln|vox|3gp|3g2/","service":"user-service","stack":"Error: Error: File upload only supports the following filetypes - /mp3|wav|wma|m4a|flac|aac|ogg|oga|opus|ra|rm|rmvb|mmf|amr|aiff|au|aif|aifc|caf|flac|m4b|mpc|pcm|tta|wv|8svx|cda|dct|dss|gsm|m4p|mp2|mpa|msv|sln|vox|3gp|3g2/\n    at D:\\College\\ayhaga\\src\\utils\\multer.ts:52:17\n    at wrappedFileFilter (D:\\College\\ayhaga\\node_modules\\multer\\index.js:44:7)\n    at Multipart.<anonymous> (D:\\College\\ayhaga\\node_modules\\multer\\lib\\make-middleware.js:107:7)\n    at Multipart.emit (node:events:512:28)\n    at HeaderParser.cb (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:358:14)\n    at HeaderParser.push (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:394:37)\n    at feed (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:248:10)\n    at SBMH.push (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:104:16)\n    at Multipart._write (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:567:19)","status":400,"storageErrors":[]}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/video"},"service":"user-service"}
+{"level":"error","message":"Error: File upload only supports the following filetypes - /mp3|wav|wma|m4a|flac|aac|ogg|oga|opus|ra|rm|rmvb|mmf|amr|aiff|au|aif|aifc|caf|flac|m4b|mpc|pcm|tta|wv|8svx|cda|dct|dss|gsm|m4p|mp2|mpa|msv|sln|vox|3gp|3g2/ Error: File upload only supports the following filetypes - /mp3|wav|wma|m4a|flac|aac|ogg|oga|opus|ra|rm|rmvb|mmf|amr|aiff|au|aif|aifc|caf|flac|m4b|mpc|pcm|tta|wv|8svx|cda|dct|dss|gsm|m4p|mp2|mpa|msv|sln|vox|3gp|3g2/","service":"user-service","stack":"Error: Error: File upload only supports the following filetypes - /mp3|wav|wma|m4a|flac|aac|ogg|oga|opus|ra|rm|rmvb|mmf|amr|aiff|au|aif|aifc|caf|flac|m4b|mpc|pcm|tta|wv|8svx|cda|dct|dss|gsm|m4p|mp2|mpa|msv|sln|vox|3gp|3g2/\n    at D:\\College\\ayhaga\\src\\utils\\multer.ts:52:17\n    at wrappedFileFilter (D:\\College\\ayhaga\\node_modules\\multer\\index.js:44:7)\n    at Multipart.<anonymous> (D:\\College\\ayhaga\\node_modules\\multer\\lib\\make-middleware.js:107:7)\n    at Multipart.emit (node:events:512:28)\n    at HeaderParser.cb (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:358:14)\n    at HeaderParser.push (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:394:37)\n    at feed (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:248:10)\n    at SBMH.push (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:104:16)\n    at Multipart._write (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:567:19)","status":400,"storageErrors":[]}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/video"},"service":"user-service"}
+{"level":"error","message":"Error: File upload only supports the following filetypes - /mp3|wav|wma|m4a|flac|aac|ogg|oga|opus|ra|rm|rmvb|mmf|amr|aiff|au|aif|aifc|caf|flac|m4b|mpc|pcm|tta|wv|8svx|cda|dct|dss|gsm|m4p|mp2|mpa|msv|sln|vox|3gp|3g2/ Error: File upload only supports the following filetypes - /mp3|wav|wma|m4a|flac|aac|ogg|oga|opus|ra|rm|rmvb|mmf|amr|aiff|au|aif|aifc|caf|flac|m4b|mpc|pcm|tta|wv|8svx|cda|dct|dss|gsm|m4p|mp2|mpa|msv|sln|vox|3gp|3g2/","service":"user-service","stack":"Error: Error: File upload only supports the following filetypes - /mp3|wav|wma|m4a|flac|aac|ogg|oga|opus|ra|rm|rmvb|mmf|amr|aiff|au|aif|aifc|caf|flac|m4b|mpc|pcm|tta|wv|8svx|cda|dct|dss|gsm|m4p|mp2|mpa|msv|sln|vox|3gp|3g2/\n    at D:\\College\\ayhaga\\src\\utils\\multer.ts:52:17\n    at wrappedFileFilter (D:\\College\\ayhaga\\node_modules\\multer\\index.js:44:7)\n    at Multipart.<anonymous> (D:\\College\\ayhaga\\node_modules\\multer\\lib\\make-middleware.js:107:7)\n    at Multipart.emit (node:events:512:28)\n    at HeaderParser.cb (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:358:14)\n    at HeaderParser.push (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:394:37)\n    at feed (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:248:10)\n    at SBMH.push (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:104:16)\n    at Multipart._write (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:567:19)","status":400,"storageErrors":[]}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/video"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/video"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/image"},"service":"user-service"}
+{"code":"LIMIT_UNEXPECTED_FILE","field":"video","level":"error","message":"Unexpected field Unexpected field","name":"MulterError","service":"user-service","stack":"MulterError: Unexpected field\n    at wrappedFileFilter (D:\\College\\ayhaga\\node_modules\\multer\\index.js:40:19)\n    at Multipart.<anonymous> (D:\\College\\ayhaga\\node_modules\\multer\\lib\\make-middleware.js:107:7)\n    at Multipart.emit (node:events:512:28)\n    at HeaderParser.cb (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:358:14)\n    at HeaderParser.push (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:394:37)\n    at feed (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:248:10)\n    at SBMH.push (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:104:16)\n    at Multipart._write (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:567:19)\n    at writeOrBuffer (node:internal/streams/writable:392:12)","storageErrors":[]}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/image"},"service":"user-service"}
+{"code":"LIMIT_UNEXPECTED_FILE","field":"image","level":"error","message":"Unexpected field Unexpected field","name":"MulterError","service":"user-service","stack":"MulterError: Unexpected field\n    at wrappedFileFilter (D:\\College\\ayhaga\\node_modules\\multer\\index.js:40:19)\n    at Multipart.<anonymous> (D:\\College\\ayhaga\\node_modules\\multer\\lib\\make-middleware.js:107:7)\n    at Multipart.emit (node:events:512:28)\n    at HeaderParser.cb (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:358:14)\n    at HeaderParser.push (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:394:37)\n    at feed (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:248:10)\n    at SBMH.push (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:104:16)\n    at Multipart._write (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:567:19)\n    at writeOrBuffer (node:internal/streams/writable:392:12)","storageErrors":[]}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/image"},"service":"user-service"}
+{"code":"LIMIT_UNEXPECTED_FILE","field":"image","level":"error","message":"Unexpected field Unexpected field","name":"MulterError","service":"user-service","stack":"MulterError: Unexpected field\n    at wrappedFileFilter (D:\\College\\ayhaga\\node_modules\\multer\\index.js:40:19)\n    at Multipart.<anonymous> (D:\\College\\ayhaga\\node_modules\\multer\\lib\\make-middleware.js:107:7)\n    at Multipart.emit (node:events:512:28)\n    at HeaderParser.cb (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:358:14)\n    at HeaderParser.push (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:394:37)\n    at feed (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:248:10)\n    at SBMH.push (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:104:16)\n    at Multipart._write (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:567:19)\n    at writeOrBuffer (node:internal/streams/writable:392:12)","storageErrors":[]}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/image"},"service":"user-service"}
+{"http_code":400,"level":"error","message":"Unsupported file type jpeg Unsupported file type jpeg","name":"Error","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/image"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/image"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/image"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/image"},"service":"user-service"}
+{"level":"error","message":"File not deleted File not deleted","service":"user-service","stack":"Error: File not deleted\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:87:11\n    at FSReqCallback.oncomplete (node:fs:180:23)","status":500}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/image"},"service":"user-service"}
+{"level":"error","message":"File not deleted File not deleted","service":"user-service","stack":"Error: File not deleted\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:87:11\n    at FSReqCallback.oncomplete (node:fs:180:23)","status":500}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/image"},"service":"user-service"}
+{"level":"error","message":"File not deleted File not deleted","service":"user-service","stack":"Error: File not deleted\n    at D:\\College\\ayhaga\\src\\modules\\user\\user.controller.ts:87:11\n    at FSReqCallback.oncomplete (node:fs:180:23)","status":500}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/image"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/cover"},"service":"user-service"}
+{"code":"LIMIT_UNEXPECTED_FILE","field":"profile","level":"error","message":"Unexpected field Unexpected field","name":"MulterError","service":"user-service","stack":"MulterError: Unexpected field\n    at wrappedFileFilter (D:\\College\\ayhaga\\node_modules\\multer\\index.js:40:19)\n    at Multipart.<anonymous> (D:\\College\\ayhaga\\node_modules\\multer\\lib\\make-middleware.js:107:7)\n    at Multipart.emit (node:events:512:28)\n    at HeaderParser.cb (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:358:14)\n    at HeaderParser.push (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:394:37)\n    at feed (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:248:10)\n    at SBMH.push (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:104:16)\n    at Multipart._write (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:567:19)\n    at writeOrBuffer (node:internal/streams/writable:392:12)","storageErrors":[]}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/cover"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/cover"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/cover"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/cover"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/cover"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/cover"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/cover"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/cover"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/cover"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/cover"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/cover"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/cover"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/cover"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/cover"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/cover"},"service":"user-service"}
+{"level":"error","message":"Error: File upload only supports the following filetypes - false Error: File upload only supports the following filetypes - false","service":"user-service","stack":"Error: Error: File upload only supports the following filetypes - false\n    at D:\\College\\ayhaga\\src\\utils\\multer.ts:63:17\n    at wrappedFileFilter (D:\\College\\ayhaga\\node_modules\\multer\\index.js:44:7)\n    at Multipart.<anonymous> (D:\\College\\ayhaga\\node_modules\\multer\\lib\\make-middleware.js:107:7)\n    at Multipart.emit (node:events:512:28)\n    at HeaderParser.cb (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:358:14)\n    at HeaderParser.push (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:394:37)\n    at feed (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:248:10)\n    at SBMH.push (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:104:16)\n    at Multipart._write (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:567:19)","status":400,"storageErrors":[]}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/cover"},"service":"user-service"}
+{"level":"error","message":"Error: File upload only supports the following filetypes - /\\/jpeg|jpg|png|gif|svg|webp|tiff|psd|raw|bmp|heif|indd|jpeg 2000\\// Error: File upload only supports the following filetypes - /\\/jpeg|jpg|png|gif|svg|webp|tiff|psd|raw|bmp|heif|indd|jpeg 2000\\//","service":"user-service","stack":"Error: Error: File upload only supports the following filetypes - /\\/jpeg|jpg|png|gif|svg|webp|tiff|psd|raw|bmp|heif|indd|jpeg 2000\\//\n    at D:\\College\\ayhaga\\src\\utils\\multer.ts:66:17\n    at wrappedFileFilter (D:\\College\\ayhaga\\node_modules\\multer\\index.js:44:7)\n    at Multipart.<anonymous> (D:\\College\\ayhaga\\node_modules\\multer\\lib\\make-middleware.js:107:7)\n    at Multipart.emit (node:events:512:28)\n    at HeaderParser.cb (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:358:14)\n    at HeaderParser.push (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:162:20)\n    at SBMH.ssCb [as _cb] (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:394:37)\n    at feed (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:248:10)\n    at SBMH.push (D:\\College\\ayhaga\\node_modules\\streamsearch\\lib\\sbmh.js:104:16)\n    at Multipart._write (D:\\College\\ayhaga\\node_modules\\busboy\\lib\\types\\multipart.js:567:19)","status":400,"storageErrors":[]}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/cover"},"service":"user-service"}
+{"level":"info","message":"Server running on port 3000","service":"user-service"}
+{"level":"info","message":"Database connected successfully","service":"user-service"}
+{"level":"info","message":{"body":{},"method":"POST","query":{},"url":"/api/v1/users/upload/resume"},"service":"user-service"}
